@@ -5432,7 +5432,7 @@ button.audience:before {
     width: 40px;
     height: 23px;
     vertical-align: -6px;
-    background-image:url("stuff/voxlogo.png");
+    background-image:url("data:image/svg+xml,%3csvg%20viewBox='0%200%20175%20125'%20xmlns='http://www.w3.org/2000/svg'%3e%3cstyle%20type='text/css'%3e%20circle,%20path%20{%20fill:%20%23FFFFFF;%20}%20%3c/style%3e%3ccircle%20cx='57'%20cy='21'%20r='21'%20/%3e%3ccircle%20cx='27'%20cy='63'%20r='21'%20/%3e%3ccircle%20cx='87.5'%20cy='63'%20r='21'%20/%3e%3ccircle%20cx='148'%20cy='63'%20r='21'%20/%3e%3cpath%20d='M54,116c0-14.9-12.1-27-27-27S0,101.1,0,116v9h54V116z'%20/%3e%3cpath%20d='M175,116c0-14.9-12.1-27-27-27s-27,12.1-27,27v9h54V116z'%20/%3e%3cpath%20d='M114.5,116c0-14.9-12.1-27-27-27s-27,12.1-27,27v9h54V116z'%20/%3e%3ccircle%20cx='118'%20cy='21'%20r='21'%20/%3e%3c/svg%3e");
     background-position: center left;
     background-repeat: no-repeat;
     opacity: .6
