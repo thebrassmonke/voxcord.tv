@@ -3462,7 +3462,7 @@ html.disable--interaction.show--consent body {
     display: block;
     width: 100%;
     padding-top: 37.7778%;
-    background-image: url(stuff/voxlogo.png);
+    background-image: url("/stuff/voxlogo.svg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center
