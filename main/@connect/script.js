@@ -4398,7 +4398,7 @@ function MK(t, e, r) {
             return "'";
         default: {
             const n = parseInt(e || r, 16);
-            return n <= 55295 || n >= 57344 ? String.fromCodePoint(n) : "�"
+            return n <= 55295 || n >= 57344 ? String.fromCodePoint(n) : " "
         }
     }
 }
@@ -15225,7 +15225,7 @@ const N3 = [{
         isPublic: !0,
         directory: "pp4/fibbage3"
     }, {
-        name: "Survive the Internet",
+        name: "Survive VoxCord",
         tag: "survivetheinternet",
         wrapper: "marionette",
         isPublic: !0,
